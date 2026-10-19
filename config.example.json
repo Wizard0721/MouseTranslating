@@ -1,0 +1,9 @@
+{
+  "api_key": "",
+  "model": "deepseek-flash",
+  "max_chars": 5000,
+  "enabled": true,
+  "mouse_trigger": false,
+  "hold_ms": 200,
+  "drag_px": 12
+}

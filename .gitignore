@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# 本地配置（含 API Key，绝不提交；模板见 config.example.json）
+config.json
+
+# 运行日志
+translate.log
+*.log
+
+# 本地工具链项目数据
+.workbuddy/
+
+# 打包产物
+build/
+dist/
+*.spec

@@ -1,0 +1,4 @@
+pynput
+uiautomation
+PyQt6
+requests
